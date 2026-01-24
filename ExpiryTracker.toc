@@ -1,4 +1,4 @@
-## Interface: 110107, 110105
+## Interface: 120000, 120001
 ## Title: Expiry Tracker
 ## Version: @project-version@
 ## Author: plusmouse
