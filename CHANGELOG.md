@@ -1,6 +1,6 @@
 # Expiry Tracker
 
-## [5] (2026-04-27)
+## 5 (2026-04-27)
 - Added Summary tab with per-character overview showing expired auctions, active auctions, mailbox gold, and next expiry time
 - Added Config tab with alert thresholds, snooze duration, and UI toggles
 - Added mailbox gold tracking per character
