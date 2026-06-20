@@ -1,3 +1,7 @@
+## 5.2 (2026-06-19)
+
+- Updated toc for 12.0.7
+
 ## 5.1 (2026-06-13)
 
 - Fixed table.remove and break on the same line in UpdateCompartmentButton — this was a Lua syntax issue that could prevent the compartment button from being unregistered correctly
